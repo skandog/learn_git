@@ -1,0 +1,3 @@
+file-name.txt
+index.txt
+logs/
